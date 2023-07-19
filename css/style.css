@@ -1,0 +1,52 @@
+.container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+table {
+
+    text-align: center;
+    justify-content: center;
+    margin: 0px auto;
+}
+
+th{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+td {
+    border: 1px solid black;
+    padding: 10px 30px;
+    background: aliceblue;
+}
+
+.btn-group {
+    padding-top: 23px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.get-btn {
+    background: red;
+    border: none;
+    color: white;
+    padding: 5px 50px;
+    font-size: 24px;
+    cursor: pointer;
+    border-radius: 45px;
+}
+
+
+
+.add-btn {
+    background: green;
+    border: none;
+    color: white;
+    padding: 5px 50px;
+    font-size: 24px;
+    cursor: pointer;
+    border-radius: 45px;
+}
